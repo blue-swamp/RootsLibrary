@@ -26,4 +26,5 @@ return array(
     'verify_multiple_logins' => true,
     'salt'                   => 'vijtk98tig4iutitgo',
     'iterations'             => 10000,
+    
 );
